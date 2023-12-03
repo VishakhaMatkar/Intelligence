@@ -78,4 +78,5 @@ Contact Us Page:
 	![image](https://github.com/VishakhaMatkar/Intelligence/assets/99500636/60af656f-1ceb-42d7-8b79-d435bc998b5f)
 
  </h3>
-0
+<h2>Conclusion</h2>
+<h4> In this project its all about the consultancy and service which we are proving to the customer and making it usefull.</h4>
