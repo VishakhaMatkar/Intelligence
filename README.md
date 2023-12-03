@@ -20,46 +20,45 @@ Video Link : <a href="https://drive.google.com/file/d/1WwDjzIFRDHYnKPKn3NzA63T3L
 4.	Contact us : In this the customer can connect us by giving there basic information to get in touch with us. </h4>
 
 
-##System Requirement  :
-###Operating system: Windows 10,11
-###Language Use :CSS, HTML,  JavaScript.
-###Cloud Used: Microsoft Azure.
+<h2>System Requirement</h2>
+<h4>Operating system: Windows 10,11
+Language Use :CSS, HTML,  JavaScript.
+Cloud Used: Microsoft Azure.</h4>
 
 
-##Azure Services :
-###1. Docker 
-###2. Azure Container Registry(ACR) 
-###3. Azure Virtual Machines 
-###4. Azure cognitive services 
+<h2>Azure Services </h2>
+<h4>1. Docker 
+2. Azure Container Registry(ACR) 
+3. Azure Virtual Machines 
+4. Azure cognitive services</h4> 
 
 
-##ScreenShots:
-##Resourec Group : 
-###It includes all the component which has been used for making this project.
-      
-##Disk:
- 
-##Network Interface :
- 
-##Virtual Network:
- 
-##Network Security Group:
- 
-##Public IP Address:
- 
-##Virtual Machine :
- 
-##Container Registry:
- 
-##Container Instances:
- 
-##Home Page:
- 
-##About Us Page:
- 
-##Services Page:
- 
-##Contact Us Page:
- 
+<h2>ScreenShots</h2>
+<h3>Resourec Group : </h3>
 
+<h4>It includes all the component which has been used for making this project.</h4>
+<h3>      
+Disk:
  
+Network Interface :
+ 
+Virtual Network:
+ 
+Network Security Group:
+ 
+Public IP Address:
+ 
+Virtual Machine :
+ 
+Container Registry:
+ 
+Container Instances:
+ 
+Home Page:
+ 
+About Us Page:
+ 
+Services Page:
+ 
+Contact Us Page:
+ </h3>
