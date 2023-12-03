@@ -1,6 +1,6 @@
 <h1>Future Ready Talent Project</h1>
 
-<h4>Implementation Link: <a href="azcorp-app.awawbgcdh3gcdhbj.eastus.azurecontainer.io" >azcorp-app.awawbgcdh3gcdhbj.eastus.azurecontainer.io</a>
+<h4>Website Link: <a href="azcorp-app.awawbgcdh3gcdhbj.eastus.azurecontainer.io" >azcorp-app.awawbgcdh3gcdhbj.eastus.azurecontainer.io</a>
 
 Video Link : <a href="https://drive.google.com/file/d/1WwDjzIFRDHYnKPKn3NzA63T3Lvh9Fc3b/view?usp=drive_link">https://drive.google.com/file/d/1WwDjzIFRDHYnKPKn3NzA63T3Lvh9Fc3b/view?usp=drive_link</a></h4>
 
