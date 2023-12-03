@@ -2,7 +2,7 @@
 
 <h4>Website Link: <a href="azcorp-app.awawbgcdh3gcdhbj.eastus.azurecontainer.io" >http://azcorp-app.awawbgcdh3gcdhbj.eastus.azurecontainer.io/</a>
 
-Video Link : <a href="https://drive.google.com/file/d/1WwDjzIFRDHYnKPKn3NzA63T3Lvh9Fc3b/view?usp=drive_link">https://drive.google.com/file/d/1WwDjzIFRDHYnKPKn3NzA63T3Lvh9Fc3b/view?usp=drive_link</a></h4>
+Video Link : <a href="https://drive.google.com/file/d/1WwDjzIFRDHYnKPKn3NzA63T3Lvh9Fc3b/view?usp=sharing">https://drive.google.com/file/d/1WwDjzIFRDHYnKPKn3NzA63T3Lvh9Fc3b/view?usp=sharing</a></h4>
 
 <h2>Project Title: Intelligence(Digital service Provider) </h2>
 
