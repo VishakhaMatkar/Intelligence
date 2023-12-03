@@ -1,13 +1,13 @@
 <h1>Future Ready Talent Project</h1>
 
-##Implementation Link: <a href="azcorp-app.awawbgcdh3gcdhbj.eastus.azurecontainer.io" >azcorp-app.awawbgcdh3gcdhbj.eastus.azurecontainer.io</a>
+<h3>Implementation Link: <a href="azcorp-app.awawbgcdh3gcdhbj.eastus.azurecontainer.io" >azcorp-app.awawbgcdh3gcdhbj.eastus.azurecontainer.io</a>
 
-Video Link : <a href="https://drive.google.com/file/d/1WwDjzIFRDHYnKPKn3NzA63T3Lvh9Fc3b/view?usp=drive_link">https://drive.google.com/file/d/1WwDjzIFRDHYnKPKn3NzA63T3Lvh9Fc3b/view?usp=drive_link</a>
+Video Link : <a href="https://drive.google.com/file/d/1WwDjzIFRDHYnKPKn3NzA63T3Lvh9Fc3b/view?usp=drive_link">https://drive.google.com/file/d/1WwDjzIFRDHYnKPKn3NzA63T3Lvh9Fc3b/view?usp=drive_link</a></h3>
 
-##Project Title: Intelligence(Digital service Provider) 
+<h2>Project Title: Intelligence(Digital service Provider) </h2>
 
-##Problem Statement :
-	###As we all aware that our country gets in the tech world such converting in the digital Transformation so, we are contributor to them such as we will provide the web development courses, Websites, App, ###Software and Marketing Development tools ,consulting service etc.
+<h2>Problem Statement </h2>
+	####As we all aware that our country gets in the tech world such converting in the digital Transformation so, we are contributor to them such as we will provide the web development courses, Websites, App, ###Software and Marketing Development tools ,consulting service etc.
 
  
 ##Project Description:
