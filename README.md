@@ -37,12 +37,15 @@ Cloud Used: Microsoft Azure.</h4>
 <h3>Resourec Group : </h3>
 
 <h4>It includes all the component which has been used for making this project.</h4>
+
+![image](https://github.com/VishakhaMatkar/Intelligence/assets/99500636/feee85d8-3a1f-4d56-82a2-49356b12f282) 
 <h3>      
 Disk:
- 
+	![image](https://github.com/VishakhaMatkar/Intelligence/assets/99500636/9aa796d3-743d-4abf-9fc1-8ac0ccf7bbff)
 Network Interface :
- 
+	![image](https://github.com/VishakhaMatkar/Intelligence/assets/99500636/73557307-57c6-43eb-a7ad-4079c1559944)
 Virtual Network:
+	
  
 Network Security Group:
  
